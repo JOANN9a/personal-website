@@ -14,7 +14,7 @@
 
 ## GitHub Pages 正式链接
 
-*待部署后填写*
+https://joann9a.github.io/personal-website/
 
 ## 本地预览
 
