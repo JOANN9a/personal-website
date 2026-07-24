@@ -37,7 +37,7 @@
 - [x] docs/prd.md 已回答 7 个必答问题
 - [x] docs/design.md 已覆盖页面布局、配色、字体、响应式策略
 - [x] report/final-report.md 已覆盖项目定位、模板选择、AI 参与、验证等
-- [ ] screenshots/ 至少有 4 张截图（待你截图后放入）
+- [x] screenshots/ 至少有 4 张截图
 - [x] 仓库至少有 3 次有意义 Commit（现有 5 次）
 
 ## 线上发布
