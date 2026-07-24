@@ -43,7 +43,7 @@
 - [ ] Checklist 全部通过（待最终验证）
 
 ## GitHub Pages 链接
-*待部署后填写*
+https://joann9a.github.io/personal-website/
 
 ## 问题与后续计划
 - 等待 GitHub 账号注册完成，创建远程仓库并推送
