@@ -1,0 +1,27 @@
+﻿# Dependencies
+node_modules/
+vendor/
+.bundle/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# IDE
+.vscode/
+.idea/
+
+# Environment & secrets
+.env
+.env.local
+*.key
+*.pem
+
+# Build output
+_site/
+.sass-cache/
+jekyll-metadata
+
+# Temp
+*.tmp
